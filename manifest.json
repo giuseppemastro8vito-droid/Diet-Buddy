@@ -1,0 +1,16 @@
+{
+    "name": "Diet Buddy",
+    "short_name":"Diet",
+    "start_url": "diet.html",
+    "display": "standalone",
+    "background_color":"#ffffff",
+    "theme_color":"#00aa55",
+    "icons": [
+        {
+            "src": "img/icon..png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+        
+    ]
+}
